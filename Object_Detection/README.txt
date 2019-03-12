@@ -1,6 +1,6 @@
 1.Give the command : 
 
-python try.py \
+python code.py \
 	--prototxt MobileNetSSD_deploy.prototxt.txt\
 	--model MobileNetSSD_deploy.caffemodel 
 
@@ -10,4 +10,4 @@ python try.py \
 
 4.Then say " find" + Object to find. 
 
-5.After processing, it directs the user the direction of the object.
+5. After processing, it directs the user the direction of the object.
